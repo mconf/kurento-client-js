@@ -41,7 +41,7 @@
     "extend": "^3.0.0",
     "inherits": "~2.0.3",
     "kurento-client-core": "git+https://github.com/mconf/kurento-client-core-js.git#mconf",
-    "kurento-client-elements": "Kurento/kurento-client-elements-js#master",
+    "kurento-client-elements": "git+https://github.com/mconf/kurento-client-elements-js#mconf",
     "kurento-client-filters": "Kurento/kurento-client-filters-js#master",
     "kurento-jsonrpc": "Kurento/kurento-jsonrpc-js#master",
     "promisecallback": "0.0.4",
